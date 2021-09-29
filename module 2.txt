@@ -1,0 +1,6 @@
+MODULE 2 - AI Concepts, Terminology, and Application Areas
+
+1.AI Introduction
+2.Machine Learning, Deep Learning, Neural Networks
+3.AI Application Areas
+4.Quiz

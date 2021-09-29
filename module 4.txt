@@ -1,0 +1,5 @@
+MODULE 4 - The Future with AI, and AI in Action
+
+1.Our Future with AI
+2.Your Future with AI
+3.AI in Action: Using Computer Vision to Classify Images
